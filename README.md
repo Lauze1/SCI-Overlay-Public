@@ -8,7 +8,7 @@ Star Citizen Intelligence is currently available as an App (Overlay) or a Bot fo
 
 [Download](https://github.com/Lauze1/SCI-Overlay-Public/releases/latest/download/SCIOverlayInstaller.exe)
 
-The tool is **free to use for everyone**, but as a student i'd be very happy about a donation if you like it 🙂
+The tool is **free to use for everyone**, but as a student i'd be very happy about a [donation](https://ko-fi.com/lauze) if you like it 🙂
 
 If you found a bug, have a feature request or any other question, please open a new thread in the ⁠**sci-forum** on [the MPeX Discord Server](https://discord.gg/yKVuXTegYn) or **send me a DM** (Discord-Name: **lauze.py**). 
 
