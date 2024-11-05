@@ -6,6 +6,8 @@ The Public Repository of the SC Intelligence Overlay where you can find the late
 SCI is the tool to quickly look up Star Citizen Players and Organisations for intel, create notes for these and to share your searches and notes within your Group or Organisation.
 Star Citizen Intelligence is currently available as an App (Overlay) or a Bot for your Discord Server.
 
+[Download](https://github.com/Lauze1/SCI-Overlay-Public/releases/latest/download/SCIOverlayInstaller.exe)
+
 # Features
 
 * Search Players and Organisations in a fast and compact way, which includes following:
