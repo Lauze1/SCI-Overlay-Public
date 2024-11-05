@@ -21,6 +21,6 @@ Star Citizen Intelligence is currently available as an App (Overlay) or a Bot fo
 -> Most features work in the Overlay and the Bot, while some may currently be missing for the Bot.
 (For more information about what is available in Discord see [Getting Started](https://sc-intelligence.net/getting-started))
 
-The tool is free to use for everyone, but as a student i'd be very happy about a donation if you like it 🙂
-If you found a bug, have a feature request or any other question, please open a new thread in the ⁠sci-forum on Discord or send me a DM (Discord-Name: lauze.py). 
+The tool is **free to use for everyone**, but as a student i'd be very happy about a donation if you like it 🙂
+If you found a bug, have a feature request or any other question, please open a new thread in the ⁠**sci-forum** on Discord or **send me a DM** (Discord-Name: **lauze.py**). 
 
